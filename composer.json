@@ -1,0 +1,14 @@
+{
+    "name": "usama/contactform",
+    "description": "A contact form package for laravel",
+    "authors": [{
+        "name": "Usama Patel",
+        "email": "patelusama1992@gmail.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Usama\\Contactform\\": "src/"
+        }
+    }
+}
