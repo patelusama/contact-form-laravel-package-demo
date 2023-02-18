@@ -11,4 +11,5 @@
             "Usama\\Contactform\\": "src/"
         }
     }
+    "minimum-stability": "dev"
 }
